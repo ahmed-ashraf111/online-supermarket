@@ -1,0 +1,18 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-position: center;
+  background-image: url("../img/background.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+
+.footer{
+  margin: auto;
+  text-align: center;
+  margin-top: 300px;
+  position: relative;
+}
+.cart-btn {
+  
+}
